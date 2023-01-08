@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samupeguero
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning git
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me samuel.30.3@hotmail.com
 
